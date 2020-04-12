@@ -1,7 +1,8 @@
 # MATIAS GALLO MENDOZA 
 ### Analista de procesos. 
 ### Descripción:
-Soy un joven profesional, especializado en el control de documentacion y analisis de procesos productivos. Actualmente Head of Quality Assurance en mina de litio, responsable de departamento QA/QC y oficina tecnica, norte argentino. Estudiante de ingeniería en informatica. 
+Soy un joven profesional, especializado en el control de documentacion y analisis de procesos productivos. Actualmente Head of Quality Assurance en mina de litio, responsable de departamento QA/QC y oficina tecnica, norte argentino. 
+Estudiante de ingeniería en informatica en ubp. 
 
 ### Experiencia:
     -Jefe de control de calidad QA/QC - RUCA PANEL SRL VIAP SRL UT: MINA DE LITIO EXAR SA. JUJUY.
@@ -29,7 +30,7 @@ Soy un joven profesional, especializado en el control de documentacion y analisi
   - Excel y Power BI: Manejo avanzado.
   - AutoCad: Manejo avanzado.
   - Gestion de documentación: Especialista en documentación, desarrollo de porcedimientos y protocolos.
-  - Google Spreadsheets y Sites: Manejo avanzado. 
+  - Google Spreadsheets: desarrollo de sistemas de control y mejora de procesos. 
  
 
 
