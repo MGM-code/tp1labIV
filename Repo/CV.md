@@ -2,7 +2,7 @@
 ### Analista de procesos. 
 ### Descripción:
 Soy un joven profesional, especializado en el control de documentacion y analisis de procesos productivos. Actualmente Head of Quality Assurance en mina de litio, responsable de departamento QA/QC y oficina tecnica, norte argentino. 
-Estudiante de ingeniería en informatica en ubp. 
+Estudiante de ingeniería en informatica en la universidad Blas Pascal Córdoba.
 
 ### Experiencia:
     -Jefe de control de calidad QA/QC - RUCA PANEL SRL VIAP SRL UT: MINA DE LITIO EXAR SA. JUJUY.
@@ -30,7 +30,8 @@ Estudiante de ingeniería en informatica en ubp.
   - Excel y Power BI: Manejo avanzado.
   - AutoCad: Manejo avanzado.
   - Gestion de documentación: Especialista en documentación, desarrollo de porcedimientos y protocolos.
-  - Google Spreadsheets: desarrollo de sistemas de control y mejora de procesos. 
+  - Planillas de calculo Google: Manejo avanzado, desarrollo de CMI y CRM. 
+
  
 
 
